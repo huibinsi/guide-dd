@@ -95,6 +95,8 @@
 * 任务的创建日期
 * 任务的完成日期
 
+![](/assets/android-Task activities1.png)
+
 `注：高级会员还能通过概要查看任务是被谁创建、被谁完成的`
 
 #####查看完整动态（高级功能）
@@ -108,4 +110,4 @@
 * 指派人改动记录
 * 任务的完成日期
 
-
+![](/assets/android-Task activities2.png)
