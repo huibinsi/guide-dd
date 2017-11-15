@@ -41,5 +41,4 @@
 * [智能日期识别规则示例](nlp/README.md)
 * [成就值与统计](cheng-jiu-zhi-yu-tong-ji.md)
 * [反馈](feedback/README.md)
-* 番茄计时
 
