@@ -4,19 +4,19 @@
 ####在客户端创建任务
 在默认开启【快速添加】时，在底部输入框中输入文本内容即可创建任务；点击右侧的<img src="../images/images_android/image002.png" title="切换语音" width="20"/>，可以切换到语音模式，按住语音键说出内容创建任务。
 
-![](Voice input.png)
+![](Task/Voice input.png)
 
 在智能清单中创建的任务将会归在收集箱中；如果你创建在其它非智能清单中，则会保存到对应的清单下。<br>`任务创建后，就会自动保存到滴答清单并同步到所有设备。`
 
 你可以给任务设定[优先级](3_manage_tasks.md)、[任务时间和提醒](2_create_remind.md) 。
 
-<br ><img src="../images/images_android/image3103.png" title="新建任务界面" width="300" />
+![](Task/Task default.png)
 
 ####自然语言识别
 在【设置】-【高级选项】-【智能识别日期】中启用【日期识别】，可以在创建新任务时自动识别文本中的日期和时间，为任务设定到期日和提醒时间。
 
 文本中不需要显示日期和时间，在【设置】-【高级选项】-【智能识别日期】中开启【移除文本中的日期】即可。
-![](android- language identification.png)
+![](Task/language identification.png)
 
 ####语音输入
 快速添加状态下，点击右侧的<img src="../images/images_android/image002.png" title="切换语音" width="20"/>，可以变成语音创建任务，按住语音键说出内容创建任务。普通模式下，长按右下角加号键进入语音输入状态。
@@ -36,6 +36,8 @@
 <br>选择一条子任务，可以直接编辑，或者点击右边的「X」，将其整条都删除。
 <br >按住右边的「≡」可以对子任务进行拖动排序。
 <br >`注：高级账户每个任务不限子任务数（免费账户最多19个）。`
+
+![](Task/List task.png)
 
 ###添加附件
 点击任务进入任务详情界面- 点击右上角<img src="../images/images_android/image001.png" title="更多" width="20" />图标-【附件】，即可上传：
