@@ -12,7 +12,7 @@
 
 <br>季节系列主题：春季、夏季、秋季、冬季。
 
-![](theme3.png)
+![](Preferences/seasons theme.png)
 
 <br>摄影系列主题：蔚蓝湖泊、暮色、慵懒猫。
 
