@@ -16,7 +16,7 @@
 
 <br>摄影系列主题：蔚蓝湖泊、暮色、慵懒猫。
 
-![](Preferences/photopragh theme.png)
+![](Preferences/photograph theme.png)
 
 `注：白色主题和摄影系列主题是拿成就值换取的，当你赚取越来越多的成就值，成就等级也会提升，就能领取对应的主题奖励。`
 
