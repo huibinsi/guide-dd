@@ -57,9 +57,6 @@ Iphone 10及以上系统的手机可以更换应用的图标。
 
 ![](Preferences/time accurate to.png)
 
-####快捷日期
-
-
 ####字体大小
 滴答清单提供两种大小的字体供您选择。
 
