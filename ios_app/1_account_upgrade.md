@@ -62,6 +62,7 @@ iOS 11 可以使用Siri直接创建任务和清单到滴答清单应用，还可
 ####立体触控
 
 ####小部件清单
+
 ios 10以上系统的手机，可以选择列表widget中显示的清单列表。
 
 ![](advanced settings/widget settings.png)
