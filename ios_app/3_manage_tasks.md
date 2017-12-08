@@ -108,7 +108,7 @@
 
 `注：高级会员还能通过概要查看任务是被谁创建、被谁完成的`
 
-![](ios-Task activities1.png)
+![](manage task/Task activities1.png)
 
 #####查看完整动态（高级功能）
 
@@ -121,7 +121,7 @@
 * 指派人改动记录
 * 任务的完成日期
 
-![](ios-Task activities2.png)
+![](manage task/Task activities2.png)
 
 
 
