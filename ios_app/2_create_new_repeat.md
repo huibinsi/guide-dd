@@ -18,9 +18,10 @@
 * 到期重复：是按照日期进行重复：
 <br >例子：小明需要每周五下午安排下周工作，所以设置一个每周五下午都会提醒的到期重复。
 
-<br ><img src="../images/images_ios2.6/image4223.PNG" title="到期重复" width="300" />
+![](repeat/due date.png)
 
 * 完成重复：是按照周期进行重复：
 <br >例子：小明想要每三天去一次健身房跑步，这一次是星期二，那么下一次会在星期五提醒他；但他星期五没有去成，星期日完成了这个任务，下一次的提醒时间是星期三，而不是星期一。
 
-<br ><img src="../images/images_ios2.6/image4222.PNG" title="完成重复" width="300" />
+![](repeat/completion date.png)
+
