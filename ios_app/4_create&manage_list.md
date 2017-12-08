@@ -65,7 +65,7 @@
 * 在侧边栏中，对需要操作的清单向左滑动。
 * 点击【铅笔】图标，可以对清单进行编辑，修改名字或者颜色。
 
-![](Editor List.png)
+![](add and manange list/editor List.png)
 
 #####隐藏清单
 
