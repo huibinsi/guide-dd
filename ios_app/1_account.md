@@ -26,7 +26,7 @@
 
 <br >还没有滴答清单帐户吗？[立即免费创建](https://dida365.com/signup)
 
-![](sign in.png)
+![](setting/sign in.png)
 
 <br >滴答清单提供两种帐户：免费帐户和高级帐户。
 <br >**免费帐户**
