@@ -94,7 +94,7 @@
 * 点击右上角「···」图标，选择【发送】。
 * 在跳转的界面选择发送途径和对象，确认发送。
 
-![](add and manange list/send list.png)
+![](add and manange list/send.png)
 
 ####共享清单
 如果你需要邀请好友、家人或同事协作，可以共享清单给他们。
@@ -107,6 +107,6 @@
    - **通过微信二维码**：通过扫描二维码加入共享清单，也可以邀请微信好友加入共享清单。
 
 
-![](Share List0.png)
+![](add and manange list/share.png)
 
 更多[共享与协作](5_share_list.md)
