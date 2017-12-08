@@ -69,7 +69,7 @@ Iphone 10及以上系统的手机可以更换应用的图标。
 
 进入「设置」-「偏好设置」-「星期开始于」中，根据个人习惯不同，可以选择周一、周日、周六。 
 
-![](Preferences/font size.png)
+![](Preferences/start date.png)
 
 ####应用角标
 
