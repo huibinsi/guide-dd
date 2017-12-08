@@ -2,6 +2,8 @@
 
 ####主题
 
+Iphone 10及以上系统的手机可以更换应用的图标。
+
 ![](Preferences/app icon.png)
 
 提供以下主题：
