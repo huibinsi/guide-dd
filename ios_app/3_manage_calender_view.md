@@ -8,8 +8,8 @@
 
 ####切换月视图/周视图
 当每日任务比较多的时候，可以在列表视图中向上滑动，切换至周视图，下方区域可以显示更多的任务。
-<br><img src="../images/images_ios2.6/image4331.png" title="月视图周视图" width="400" />
 
+![](calender/slide canender.png)
 
 ####切换列表视图/月视图/三日视图
 
