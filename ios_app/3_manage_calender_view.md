@@ -9,7 +9,7 @@
 ####切换月视图/周视图
 当每日任务比较多的时候，可以在列表视图中向上滑动，切换至周视图，下方区域可以显示更多的任务。
 
-![](calender/slide calender.png)
+![](calender/slider calender.png)
 
 ####切换列表视图/月视图/三日视图
 
