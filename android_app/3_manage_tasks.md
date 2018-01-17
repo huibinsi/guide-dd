@@ -86,9 +86,10 @@
 ![](Manage List/Completed.png)
 
 ####任务进度
+
 进入任务详情页，左右拖拽日期栏，可对任务设置进度条百分比。
 
-<br>![](Manage List/schedule.png)
+![](Manage List/schedule.png)
 
 ####任务动态
 
