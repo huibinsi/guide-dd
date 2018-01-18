@@ -60,7 +60,7 @@
 
 ![](List/assign.png)
 
-更多与分享相关的内容请参考 [3.5 分享与协作](android_app/5_share_lists.md)
+更多与分享相关的内容请参考 [3.5 分享与协作](5_share_lists.md)
 
 
 ####文件夹
