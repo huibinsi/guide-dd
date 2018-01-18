@@ -34,7 +34,7 @@
     * [设置重复任务](ios_app/2_create_new_repeat.md)
   * [管理任务](ios_app/3_manage_tasks.md)
     * [日历](ios_app/3_manage_calender_view.md)
-    * [番茄计时](ios_app/fan-qie-ji-shi.md)
+  * [番茄计时](ios_app/fan-qie-ji-shi.md)
 * [微信公众号](wechat/README.md)
 * [分享和协作](ios_app/5_share_lists.md)
 * [自定义智能清单特殊规则](filter/README.md)
