@@ -1,5 +1,4 @@
 # Summary
-
 * [开始使用滴答清单](README.md)
   * [关于滴答](guan_yu_dida.md)
 * [网页端](ticktick_web_app/README.md)
@@ -10,6 +9,9 @@
   * [数据](ticktick_web_app/shu_ju.md)
   * [筛选](ticktick_web_app/shai_xuan.md)
   * [浏览器插件](chrome_extension_app/README.md)
+  * [摘要](ticktick_web_app/summary.md)
+  * [统计](ticktick_web_app/tongji.md)
+  * [垃圾桶](ticktick_web_app/bin.md)
 * [安卓应用](android_app/README.md)
   * [注册和登录](android_app/1_account.md)
   * [偏好设置](android_app/7_more_setting.md)
@@ -41,4 +43,3 @@
 * [智能日期识别规则示例](nlp/README.md)
 * [成就值与统计](cheng-jiu-zhi-yu-tong-ji.md)
 * [反馈](feedback/README.md)
-
