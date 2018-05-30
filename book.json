@@ -1,0 +1,22 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "滴答清单用户手册",
+    "description": "滴答清单是一款跨平台同步的待办事项和任务提醒软件, 旨在协助您完成待办事务比如生日提醒, 旅行安排, 会议准备等以便更好的规划时间和安排生活。",
+    "language": "zh-cn",
+    "plugins": [
+        "style-rewrite"
+    ],
+    "pluginsConfig": {},
+    "links": {
+        "sidebar": {
+            "回到首页": "https://dida365.com"
+        },
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false,
+            "weibo": true,
+            "all": false
+        }
+    }
+}
